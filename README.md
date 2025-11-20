@@ -14,13 +14,13 @@
 <div align="center">
 
 **École Polytechnique** - *Engineer's Degree*  
-**Big Data & Artificial Intelligence** (2018-2020)
+**Big Data & Artificial Intelligence**
 
 **Université Ibn Zohr** - *Bachelor's Degree*  
-**Computer Science** (2017-2018)
+**Computer Science** 
 
 **Mirleft ISTA** - *Associate's Degree*  
-**Digital Programming** (2015-2017)
+**Digital Programming** 
 
 </div>
 
